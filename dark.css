@@ -3760,7 +3760,7 @@ span.match {
     color: #949494;
 }
 #convo_tab .message_input, #convo_tab textarea#msg_text {
-    color: #e6e6e6;
+    color: #000;
 }
 #whats_new_tab p {
     color: #e6e6e6;
